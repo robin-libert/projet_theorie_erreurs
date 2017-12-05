@@ -1,0 +1,8 @@
+Trois algorithmes de compression audio ont été comparés en fonction de la taille de 
+la base considérée. 
+Nous avons repris dans le tableau ci-dessous ces données avec dans l'ordre 
+la taille de la base, la taille du fichier après compression pour chaque algorithme.
+Pouvez-vous comparer utilement ces traitements ? 
+En existe-t-il un meilleur ? Justifier votre réponse.
+
+Remettre pour le 22 décembre à midi!
