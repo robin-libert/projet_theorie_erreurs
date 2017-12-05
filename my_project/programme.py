@@ -21,7 +21,7 @@ for e in range(10):
     plt.plot(range(100), col2[100*e:100*e+100], 'x', label = "algorithme de compression 2")
     plt.plot(range(100), col3[100*e:100*e+100], 'x', label = "algorithme de compression 3")
     
-    plt.legend(loc='upper left', frameon=False)
+    plt.legend(loc='upper left', frameon=True)
 
     plt.axis('equal')
 
